@@ -1,6 +1,8 @@
 # GO-BBB
 Code snippets for Beaglebone Black using GO language
 
+Original source code http://thenewstack.io/building-a-web-server-in-go/
+
 # Compiling GO projects for Beaglebone Black
 
 Finding the make.bash tool in Ubuntu:
