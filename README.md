@@ -38,7 +38,7 @@ user@computer:~/go-examples$ cat > hello-world.go << EOF
 >
 > import "fmt"
 >
-> function main() {
+> func main() {
 >     fmt.Println("Hello", "World!")
 > }
 > EOF
